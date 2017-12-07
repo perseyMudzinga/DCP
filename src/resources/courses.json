@@ -1,0 +1,266 @@
+{
+	"years":[
+		{
+			"semesterOne":[
+				{
+					"courseCode": "CS101",
+					"courseName": "INTRODUCTION TO COMPUTER SCIENCE",
+					"core": true,
+					"weight": 4
+				},
+				{
+					"courseCode": "CS102",
+					"courseName": "INTRODUCTION TO COMPUTER PROGRAMMING",
+					"core": false,
+					"weight": 4
+				},
+				{
+					"courseCode": "CS103",
+					"courseName": "MATHEMATICAL FOUNDATION OF COMPUTER SCIENCE",
+					"core": true,
+					"weight": 4
+				},
+				{
+					"courseCode": "MT101",
+					"courseName": "CALCULUS 1",
+					"core": false,
+					"weight": 4
+				},
+				{
+					"courseCode": "PC103",
+					"courseName": "COMMUNICATION SKILLS",
+					"core": true,
+					"weight": 4
+				},
+				{
+					"courseCode": "PH107",
+					"courseName": "PHYSICS FOR COMPUTER SCIENCE",
+					"core": true,
+					"weight": 4
+				},
+				{
+					"courseCode": "HS101",
+					"courseName": "HIV/AIDS EDUCATION",
+					"core": true,
+					"weight": 2
+				}
+			],
+			"semesterTwo":[
+				{
+					"courseCode": "CS111",
+					"courseName": "OPERATING SYSTEM CONCEPTS",
+					"core": false,
+					"weight": 4
+				},
+				{
+					"courseCode": "CS112",
+					"courseName": "OBJECT ORIENTED PROGRAMMING I",
+					"core": true,
+					"weight": 4
+				},
+				{
+					"courseCode": "CS113",
+					"courseName": "COMPUTER ARCHITECTURE",
+					"core": true,
+					"weight": 4
+				},
+				{
+					"courseCode": "CS114",
+					"courseName": "INTRODUCTION TO LINUX",
+					"core": true,
+					"weight": 4
+				},
+				{
+					"courseCode": "CS115",
+					"courseName": "SYSTEMS ANALYSIS AND DESIGN",
+					"core": true,
+					"weight": 4
+				},
+				{
+					"courseCode": "MT111",
+					"courseName": "CALCULUS II",
+					"core": false,
+					"weight": 4
+				}
+			]
+		},
+		{
+			"semesterOne":[
+				{
+					"courseCode": "CS201",
+					"courseName": "DATABASE CONCEPTS",
+					"core": true,
+					"weight": 4
+				},
+				{
+					"courseCode": "CS202",
+					"courseName": "MANAGEMENT INFORMATION SYSTEMS",
+					"core": false,
+					"weight": 4
+				},
+				{
+					"courseCode": "CS203",
+					"courseName": "OBJECT ORIENTED PROGRAMMING II",
+					"core": false,
+					"weight": 4
+				},
+				{
+					"courseCode": "CS205",
+					"courseName": "DISCRETE MATHEMATICS",
+					"core": true,
+					"weight": 4
+				},
+				{
+					"courseCode": "CS206",
+					"courseName": "RESEARCH METHODOLOGY",
+					"core": false,
+					"weight": 4
+				},
+				{
+					"courseCode": "PH206",
+					"courseName": "ELECTRONICS 1",
+					"core": true,
+					"weight": 4
+				},
+				{
+					"courseCode": "CS204",
+					"courseName": "MICROPROCESSORS",
+					"core": false,
+					"weight": 4
+				}
+			],
+			"semesterTwo":[
+				{
+					"courseCode": "CS211",
+					"courseName": "THEORY OF PROGRAMMING LANGUAGES",
+					"core": false,
+					"weight": 4
+				},
+				{
+					"courseCode": "CS213",
+					"courseName": "DATA STRUCTURES AND ALGORITHMS",
+					"core": true,
+					"weight": 4
+				},
+				{
+					"courseCode": "CS214",
+					"courseName": "INTERNET AND WEB DESIGN",
+					"core": false,
+					"weight": 4
+				},
+				{
+					"courseCode": "CS215",
+					"courseName": "THEORY OF COMPUTATION",
+					"core": true,
+					"weight": 4
+				},
+				{
+					"courseCode": "CS216",
+					"courseName": "SOFTWARE ENGINEERING",
+					"core": true,
+					"weight": 4
+				},
+				{
+					"courseCode": "CS212",
+					"courseName": "DATA COMMUNICATIONS AND NETWORKING",
+					"core": true,
+					"weight": 4
+				}
+			]
+		},
+		{
+			"semesterOne":[
+				{
+					"courseCode": "CS300",
+					"courseName": "INDUSTRIAL ATTACHMENT",
+					"core": true,
+					"weight": 4
+				}
+			]
+		},
+		{
+			"semesterOne":[
+				{
+					"courseCode": "CS401",
+					"courseName": "DESIGN AND ANALYSIS OF ALGORITHMS",
+					"core": true,
+					"weight": 4
+				},
+				{
+					"courseCode": "CS403",
+					"courseName": "SIMULATION AND MODELLING",
+					"core": false,
+					"weight": 4
+				},
+				{
+					"courseCode": "CS404",
+					"courseName": "SOFTWARE PROJECT MANAGEMENT",
+					"core": true,
+					"weight": 4
+				},
+				{
+					"courseCode": "CS405",
+					"courseName": "DIGITAL SIGNAL PROCESSING",
+					"core": true,
+					"weight": 4
+				},
+				{
+					"courseCode": "CS400",
+					"courseName": "ARTIFICIAL INTELLIGENCE AND INTELLIGENT SYSTEMS",
+					"core": true,
+					"weight": 4
+				},
+				{
+					"courseCode": "CS407",
+					"courseName": "EXPERT AND DECISION SUPPORT SYSTEMS",
+					"core": false,
+					"weight": 4
+				}
+			],
+			"semesterTwo":[
+				{
+					"courseCode": "CS411",
+					"courseName": "COMPUTER GRAPHICS",
+					"core": false,
+					"weight": 4
+				},
+				{
+					"courseCode": "CS412",
+					"courseName": "COMPUTER SECURITY",
+					"core": false,
+					"weight": 4
+				},
+				{
+					"courseCode": "CS413",
+					"courseName": "ADVANCED DATABASE DESIGNS AND MANAGEMENT",
+					"core": false,
+					"weight": 4
+				},
+				{
+					"courseCode": "CS414",
+					"courseName": "INDIVIDUAL PROJECT: IMPLEMENTATION AND PRESENTATION",
+					"core": true,
+					"weight": 12
+				},
+				{
+					"courseCode": "CS415",
+					"courseName": "DISTRIBUTED SYSTEMS",
+					"core": false,
+					"weight": 4
+				},
+				{
+					"courseCode": "CS416",
+					"courseName": "E-COMMERCE",
+					"core": false,
+					"weight": 4
+				},
+				{
+					"courseCode": "CS417",
+					"courseName": "COMPILING SYSTEMS DESIGN",
+					"core": false,
+					"weight": 4
+				}
+			]
+		}
+	]
+}
